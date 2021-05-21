@@ -8,6 +8,7 @@
 
 ### 4.Host website using github pages paste the link in given place :1st_place_medal:
 
+>NB:Use form events (Become a perfect googler :tada::tada:)
 
 ![](https://github.com/IEEE-CS-SBC-CEV/TASK-02-JS/blob/main/JS-TASK-02.gif)
 

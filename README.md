@@ -6,5 +6,7 @@
 
 ### 3.You can design the form in your own way no need to follow the given design:100:
 
-### 4.Host website using github pages :1st_place_medal:
+### 4.Host website using github pages paste the link in given place :1st_place_medal:
 
+
+![](https://github.com/IEEE-CS-SBC-CEV/TASK-02-JS/blob/main/JS-TASK-02.gif)

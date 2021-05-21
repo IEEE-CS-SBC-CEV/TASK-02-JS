@@ -10,3 +10,56 @@
 
 
 ![](https://github.com/IEEE-CS-SBC-CEV/TASK-02-JS/blob/main/JS-TASK-02.gif)
+
+# Paste the URL of the website in the given place next to your name 
+
+|BugBusters|Name|Website link|  
+|----------|----|------------|
+|1|Shahla k|-|
+|2|Akshay M|-|
+|3|Aswin V|-|
+|4|Ashitha N|-|
+|5|Nihad C V|-|
+
+|Server Monks|Name|Website link|  
+|------------|----|------------|
+|1|Adnan|-|
+|2|Anuroopa|-|
+|3|Akmal|-|
+|4|Hiba|-|
+|5|Dana|-|
+|6|Sreeram|-|
+
+|Data Pirates|Name|Website link|  
+|------------|----|------------|
+|1|Najiya|-|
+|2|Hafis|-|
+|3|Prathul|-|
+|4|Swathy|-|
+|5|Yazid|-|
+
+|Webzone|Name|Website link|  
+|-------|----|------------|
+|1|Anupriya|-|
+|2|Aleena Reji|-|
+|3|Avanthika|-|
+|4|Atif|-|
+|5|Yadunath|-|
+|6|Adnan|-|
+
+|Query Crew|Name|Website link|  
+|----------|----|------------|
+|1|Hadiq|-|
+|2|Kiran|-|
+|3|Pravitha|-|
+|4|Adil|-|
+|5|Greeshma|-|
+|6|Adithya|-|
+
+|Net Weavers|Name|Website link|  
+|-----------|----|------------|
+|1|Nandu krishna|-|
+|2|Arjun|-|
+|3|Lisana|-|
+|4|Gayathri|-|
+|5|Nayantara|-|

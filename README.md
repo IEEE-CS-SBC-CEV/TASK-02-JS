@@ -33,7 +33,7 @@
 
 |Data Pirates|Name|Website link|  
 |------------|----|------------|
-|1|Najiya|-|
+|1|Najiya|https://fathimanajiya.github.io/TASK2JS/|
 |2|Hafis|-|
 |3|Prathul|-|
 |4|Swathy|-|
